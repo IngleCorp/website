@@ -235,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #7cc576;
+  color: black;
 }
 
 .mobile-nav {
@@ -378,12 +378,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 14px 30px;
-  border-radius: 3px;
-  transition: 0.5s;
-  margin: 10px;
-  color: #fff;
-  background: #7cc576;
+  padding: 7px 14px;
+    border-radius: 3px;
+    transition: 0.5s;
+    margin: 10px;
+    color: black;
+    background: white
 }
 
 #hero .btn-get-started:hover {
