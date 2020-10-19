@@ -1733,3 +1733,9 @@ section {
   font-size: 13px;
   padding-top: 5px;
 }
+
+.foot-links li{
+  display: block;
+  list-style: none;
+  text-align: center;
+}
